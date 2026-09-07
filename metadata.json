@@ -1,0 +1,6 @@
+{
+  "name": "PicaComic",
+  "description": "A refined manga and comic reader inspired by PicaComic with MIUIX and iOS liquid glass aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
